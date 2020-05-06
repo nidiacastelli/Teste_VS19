@@ -7,7 +7,7 @@
              x:Class="App_Teste_VS19.Page1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Prof Nidia"
+            <Label Text="Teste 2"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
